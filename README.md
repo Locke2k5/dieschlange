@@ -1,0 +1,2 @@
+# dieschlange
+snakegame  in c 
